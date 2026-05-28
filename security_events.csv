@@ -1,0 +1,849 @@
+"EventID","MachineName","Data","Index","Category","CategoryNumber","EntryType","Message","Source","ReplacementStrings","InstanceId","TimeGenerated","TimeWritten","UserName","Site","Container"
+"4798","LAPTOP-OBSQ0AE2","System.Byte[]","337965","(13824)","13824","SuccessAudit","A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		LAPTOP-OBSQ0AE2$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3e7
+
+User:
+	Security ID:		S-1-5-21-3180984354-2014446864-1325276698-1001
+	Account Name:		Asus
+	Account Domain:		LAPTOP-OBSQ0AE2
+
+Process Information:
+	Process ID:		0x5b8
+	Process Name:		C:\Windows\System32\svchost.exe","Microsoft-Windows-Security-Auditing","System.String[]","4798","28-05-2026 14:48:23","28-05-2026 14:48:23",,,
+"4798","LAPTOP-OBSQ0AE2","System.Byte[]","337964","(13824)","13824","SuccessAudit","A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		LAPTOP-OBSQ0AE2$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3e7
+
+User:
+	Security ID:		S-1-5-21-3180984354-2014446864-1325276698-500
+	Account Name:		Administrator
+	Account Domain:		LAPTOP-OBSQ0AE2
+
+Process Information:
+	Process ID:		0x5b8
+	Process Name:		C:\Windows\System32\svchost.exe","Microsoft-Windows-Security-Auditing","System.String[]","4798","28-05-2026 14:48:23","28-05-2026 14:48:23",,,
+"4798","LAPTOP-OBSQ0AE2","System.Byte[]","337963","(13824)","13824","SuccessAudit","A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		LAPTOP-OBSQ0AE2$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3e7
+
+User:
+	Security ID:		S-1-5-21-3180984354-2014446864-1325276698-1001
+	Account Name:		Asus
+	Account Domain:		LAPTOP-OBSQ0AE2
+
+Process Information:
+	Process ID:		0x5b8
+	Process Name:		C:\Windows\System32\svchost.exe","Microsoft-Windows-Security-Auditing","System.String[]","4798","28-05-2026 14:48:23","28-05-2026 14:48:23",,,
+"4798","LAPTOP-OBSQ0AE2","System.Byte[]","337962","(13824)","13824","SuccessAudit","A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		LAPTOP-OBSQ0AE2$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3e7
+
+User:
+	Security ID:		S-1-5-21-3180984354-2014446864-1325276698-500
+	Account Name:		Administrator
+	Account Domain:		LAPTOP-OBSQ0AE2
+
+Process Information:
+	Process ID:		0x5b8
+	Process Name:		C:\Windows\System32\svchost.exe","Microsoft-Windows-Security-Auditing","System.String[]","4798","28-05-2026 14:48:23","28-05-2026 14:48:23",,,
+"4798","LAPTOP-OBSQ0AE2","System.Byte[]","337961","(13824)","13824","SuccessAudit","A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		LAPTOP-OBSQ0AE2$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3e7
+
+User:
+	Security ID:		S-1-5-21-3180984354-2014446864-1325276698-1001
+	Account Name:		Asus
+	Account Domain:		LAPTOP-OBSQ0AE2
+
+Process Information:
+	Process ID:		0x5b8
+	Process Name:		C:\Windows\System32\svchost.exe","Microsoft-Windows-Security-Auditing","System.String[]","4798","28-05-2026 14:48:22","28-05-2026 14:48:22",,,
+"4798","LAPTOP-OBSQ0AE2","System.Byte[]","337960","(13824)","13824","SuccessAudit","A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		LAPTOP-OBSQ0AE2$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3e7
+
+User:
+	Security ID:		S-1-5-21-3180984354-2014446864-1325276698-500
+	Account Name:		Administrator
+	Account Domain:		LAPTOP-OBSQ0AE2
+
+Process Information:
+	Process ID:		0x5b8
+	Process Name:		C:\Windows\System32\svchost.exe","Microsoft-Windows-Security-Auditing","System.String[]","4798","28-05-2026 14:48:22","28-05-2026 14:48:22",,,
+"4798","LAPTOP-OBSQ0AE2","System.Byte[]","337959","(13824)","13824","SuccessAudit","A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		LAPTOP-OBSQ0AE2$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3e7
+
+User:
+	Security ID:		S-1-5-21-3180984354-2014446864-1325276698-1001
+	Account Name:		Asus
+	Account Domain:		LAPTOP-OBSQ0AE2
+
+Process Information:
+	Process ID:		0x5b8
+	Process Name:		C:\Windows\System32\svchost.exe","Microsoft-Windows-Security-Auditing","System.String[]","4798","28-05-2026 14:48:22","28-05-2026 14:48:22",,,
+"4798","LAPTOP-OBSQ0AE2","System.Byte[]","337958","(13824)","13824","SuccessAudit","A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		LAPTOP-OBSQ0AE2$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3e7
+
+User:
+	Security ID:		S-1-5-21-3180984354-2014446864-1325276698-500
+	Account Name:		Administrator
+	Account Domain:		LAPTOP-OBSQ0AE2
+
+Process Information:
+	Process ID:		0x5b8
+	Process Name:		C:\Windows\System32\svchost.exe","Microsoft-Windows-Security-Auditing","System.String[]","4798","28-05-2026 14:48:22","28-05-2026 14:48:22",,,
+"4798","LAPTOP-OBSQ0AE2","System.Byte[]","337957","(13824)","13824","SuccessAudit","A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		LAPTOP-OBSQ0AE2$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3e7
+
+User:
+	Security ID:		S-1-5-21-3180984354-2014446864-1325276698-1001
+	Account Name:		Asus
+	Account Domain:		LAPTOP-OBSQ0AE2
+
+Process Information:
+	Process ID:		0x5b8
+	Process Name:		C:\Windows\System32\svchost.exe","Microsoft-Windows-Security-Auditing","System.String[]","4798","28-05-2026 14:47:33","28-05-2026 14:47:33",,,
+"4798","LAPTOP-OBSQ0AE2","System.Byte[]","337956","(13824)","13824","SuccessAudit","A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		LAPTOP-OBSQ0AE2$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3e7
+
+User:
+	Security ID:		S-1-5-21-3180984354-2014446864-1325276698-500
+	Account Name:		Administrator
+	Account Domain:		LAPTOP-OBSQ0AE2
+
+Process Information:
+	Process ID:		0x5b8
+	Process Name:		C:\Windows\System32\svchost.exe","Microsoft-Windows-Security-Auditing","System.String[]","4798","28-05-2026 14:47:33","28-05-2026 14:47:33",,,
+"4798","LAPTOP-OBSQ0AE2","System.Byte[]","337955","(13824)","13824","SuccessAudit","A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		LAPTOP-OBSQ0AE2$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3e7
+
+User:
+	Security ID:		S-1-5-21-3180984354-2014446864-1325276698-1001
+	Account Name:		Asus
+	Account Domain:		LAPTOP-OBSQ0AE2
+
+Process Information:
+	Process ID:		0x5b8
+	Process Name:		C:\Windows\System32\svchost.exe","Microsoft-Windows-Security-Auditing","System.String[]","4798","28-05-2026 14:47:33","28-05-2026 14:47:33",,,
+"4798","LAPTOP-OBSQ0AE2","System.Byte[]","337954","(13824)","13824","SuccessAudit","A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		LAPTOP-OBSQ0AE2$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3e7
+
+User:
+	Security ID:		S-1-5-21-3180984354-2014446864-1325276698-500
+	Account Name:		Administrator
+	Account Domain:		LAPTOP-OBSQ0AE2
+
+Process Information:
+	Process ID:		0x5b8
+	Process Name:		C:\Windows\System32\svchost.exe","Microsoft-Windows-Security-Auditing","System.String[]","4798","28-05-2026 14:47:33","28-05-2026 14:47:33",,,
+"4798","LAPTOP-OBSQ0AE2","System.Byte[]","337953","(13824)","13824","SuccessAudit","A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		LAPTOP-OBSQ0AE2$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3e7
+
+User:
+	Security ID:		S-1-5-21-3180984354-2014446864-1325276698-1001
+	Account Name:		Asus
+	Account Domain:		LAPTOP-OBSQ0AE2
+
+Process Information:
+	Process ID:		0x5b8
+	Process Name:		C:\Windows\System32\svchost.exe","Microsoft-Windows-Security-Auditing","System.String[]","4798","28-05-2026 14:47:25","28-05-2026 14:47:25",,,
+"4798","LAPTOP-OBSQ0AE2","System.Byte[]","337952","(13824)","13824","SuccessAudit","A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		LAPTOP-OBSQ0AE2$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3e7
+
+User:
+	Security ID:		S-1-5-21-3180984354-2014446864-1325276698-500
+	Account Name:		Administrator
+	Account Domain:		LAPTOP-OBSQ0AE2
+
+Process Information:
+	Process ID:		0x5b8
+	Process Name:		C:\Windows\System32\svchost.exe","Microsoft-Windows-Security-Auditing","System.String[]","4798","28-05-2026 14:47:25","28-05-2026 14:47:25",,,
+"4798","LAPTOP-OBSQ0AE2","System.Byte[]","337951","(13824)","13824","SuccessAudit","A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		LAPTOP-OBSQ0AE2$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3e7
+
+User:
+	Security ID:		S-1-5-21-3180984354-2014446864-1325276698-1001
+	Account Name:		Asus
+	Account Domain:		LAPTOP-OBSQ0AE2
+
+Process Information:
+	Process ID:		0x5b8
+	Process Name:		C:\Windows\System32\svchost.exe","Microsoft-Windows-Security-Auditing","System.String[]","4798","28-05-2026 14:47:25","28-05-2026 14:47:25",,,
+"4798","LAPTOP-OBSQ0AE2","System.Byte[]","337950","(13824)","13824","SuccessAudit","A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		LAPTOP-OBSQ0AE2$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3e7
+
+User:
+	Security ID:		S-1-5-21-3180984354-2014446864-1325276698-500
+	Account Name:		Administrator
+	Account Domain:		LAPTOP-OBSQ0AE2
+
+Process Information:
+	Process ID:		0x5b8
+	Process Name:		C:\Windows\System32\svchost.exe","Microsoft-Windows-Security-Auditing","System.String[]","4798","28-05-2026 14:47:25","28-05-2026 14:47:25",,,
+"4798","LAPTOP-OBSQ0AE2","System.Byte[]","337949","(13824)","13824","SuccessAudit","A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		LAPTOP-OBSQ0AE2$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3e7
+
+User:
+	Security ID:		S-1-5-21-3180984354-2014446864-1325276698-1001
+	Account Name:		Asus
+	Account Domain:		LAPTOP-OBSQ0AE2
+
+Process Information:
+	Process ID:		0x5b8
+	Process Name:		C:\Windows\System32\svchost.exe","Microsoft-Windows-Security-Auditing","System.String[]","4798","28-05-2026 14:47:23","28-05-2026 14:47:23",,,
+"4798","LAPTOP-OBSQ0AE2","System.Byte[]","337948","(13824)","13824","SuccessAudit","A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		LAPTOP-OBSQ0AE2$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3e7
+
+User:
+	Security ID:		S-1-5-21-3180984354-2014446864-1325276698-500
+	Account Name:		Administrator
+	Account Domain:		LAPTOP-OBSQ0AE2
+
+Process Information:
+	Process ID:		0x5b8
+	Process Name:		C:\Windows\System32\svchost.exe","Microsoft-Windows-Security-Auditing","System.String[]","4798","28-05-2026 14:47:23","28-05-2026 14:47:23",,,
+"4798","LAPTOP-OBSQ0AE2","System.Byte[]","337947","(13824)","13824","SuccessAudit","A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		LAPTOP-OBSQ0AE2$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3e7
+
+User:
+	Security ID:		S-1-5-21-3180984354-2014446864-1325276698-1001
+	Account Name:		Asus
+	Account Domain:		LAPTOP-OBSQ0AE2
+
+Process Information:
+	Process ID:		0x5b8
+	Process Name:		C:\Windows\System32\svchost.exe","Microsoft-Windows-Security-Auditing","System.String[]","4798","28-05-2026 14:47:23","28-05-2026 14:47:23",,,
+"4798","LAPTOP-OBSQ0AE2","System.Byte[]","337946","(13824)","13824","SuccessAudit","A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		LAPTOP-OBSQ0AE2$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3e7
+
+User:
+	Security ID:		S-1-5-21-3180984354-2014446864-1325276698-500
+	Account Name:		Administrator
+	Account Domain:		LAPTOP-OBSQ0AE2
+
+Process Information:
+	Process ID:		0x5b8
+	Process Name:		C:\Windows\System32\svchost.exe","Microsoft-Windows-Security-Auditing","System.String[]","4798","28-05-2026 14:47:23","28-05-2026 14:47:23",,,
+"4798","LAPTOP-OBSQ0AE2","System.Byte[]","337945","(13824)","13824","SuccessAudit","A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		LAPTOP-OBSQ0AE2$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3e7
+
+User:
+	Security ID:		S-1-5-21-3180984354-2014446864-1325276698-1001
+	Account Name:		Asus
+	Account Domain:		LAPTOP-OBSQ0AE2
+
+Process Information:
+	Process ID:		0x5b8
+	Process Name:		C:\Windows\System32\svchost.exe","Microsoft-Windows-Security-Auditing","System.String[]","4798","28-05-2026 14:46:44","28-05-2026 14:46:44",,,
+"4798","LAPTOP-OBSQ0AE2","System.Byte[]","337944","(13824)","13824","SuccessAudit","A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		LAPTOP-OBSQ0AE2$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3e7
+
+User:
+	Security ID:		S-1-5-21-3180984354-2014446864-1325276698-500
+	Account Name:		Administrator
+	Account Domain:		LAPTOP-OBSQ0AE2
+
+Process Information:
+	Process ID:		0x5b8
+	Process Name:		C:\Windows\System32\svchost.exe","Microsoft-Windows-Security-Auditing","System.String[]","4798","28-05-2026 14:46:44","28-05-2026 14:46:44",,,
+"4798","LAPTOP-OBSQ0AE2","System.Byte[]","337943","(13824)","13824","SuccessAudit","A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		LAPTOP-OBSQ0AE2$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3e7
+
+User:
+	Security ID:		S-1-5-21-3180984354-2014446864-1325276698-1001
+	Account Name:		Asus
+	Account Domain:		LAPTOP-OBSQ0AE2
+
+Process Information:
+	Process ID:		0x5b8
+	Process Name:		C:\Windows\System32\svchost.exe","Microsoft-Windows-Security-Auditing","System.String[]","4798","28-05-2026 14:46:44","28-05-2026 14:46:44",,,
+"4798","LAPTOP-OBSQ0AE2","System.Byte[]","337942","(13824)","13824","SuccessAudit","A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		LAPTOP-OBSQ0AE2$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3e7
+
+User:
+	Security ID:		S-1-5-21-3180984354-2014446864-1325276698-500
+	Account Name:		Administrator
+	Account Domain:		LAPTOP-OBSQ0AE2
+
+Process Information:
+	Process ID:		0x5b8
+	Process Name:		C:\Windows\System32\svchost.exe","Microsoft-Windows-Security-Auditing","System.String[]","4798","28-05-2026 14:46:44","28-05-2026 14:46:44",,,
+"4798","LAPTOP-OBSQ0AE2","System.Byte[]","337941","(13824)","13824","SuccessAudit","A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		LAPTOP-OBSQ0AE2$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3e7
+
+User:
+	Security ID:		S-1-5-21-3180984354-2014446864-1325276698-1001
+	Account Name:		Asus
+	Account Domain:		LAPTOP-OBSQ0AE2
+
+Process Information:
+	Process ID:		0x5b8
+	Process Name:		C:\Windows\System32\svchost.exe","Microsoft-Windows-Security-Auditing","System.String[]","4798","28-05-2026 14:46:23","28-05-2026 14:46:23",,,
+"4798","LAPTOP-OBSQ0AE2","System.Byte[]","337940","(13824)","13824","SuccessAudit","A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		LAPTOP-OBSQ0AE2$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3e7
+
+User:
+	Security ID:		S-1-5-21-3180984354-2014446864-1325276698-500
+	Account Name:		Administrator
+	Account Domain:		LAPTOP-OBSQ0AE2
+
+Process Information:
+	Process ID:		0x5b8
+	Process Name:		C:\Windows\System32\svchost.exe","Microsoft-Windows-Security-Auditing","System.String[]","4798","28-05-2026 14:46:23","28-05-2026 14:46:23",,,
+"4798","LAPTOP-OBSQ0AE2","System.Byte[]","337939","(13824)","13824","SuccessAudit","A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		LAPTOP-OBSQ0AE2$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3e7
+
+User:
+	Security ID:		S-1-5-21-3180984354-2014446864-1325276698-1001
+	Account Name:		Asus
+	Account Domain:		LAPTOP-OBSQ0AE2
+
+Process Information:
+	Process ID:		0x5b8
+	Process Name:		C:\Windows\System32\svchost.exe","Microsoft-Windows-Security-Auditing","System.String[]","4798","28-05-2026 14:46:23","28-05-2026 14:46:23",,,
+"4798","LAPTOP-OBSQ0AE2","System.Byte[]","337938","(13824)","13824","SuccessAudit","A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		LAPTOP-OBSQ0AE2$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3e7
+
+User:
+	Security ID:		S-1-5-21-3180984354-2014446864-1325276698-500
+	Account Name:		Administrator
+	Account Domain:		LAPTOP-OBSQ0AE2
+
+Process Information:
+	Process ID:		0x5b8
+	Process Name:		C:\Windows\System32\svchost.exe","Microsoft-Windows-Security-Auditing","System.String[]","4798","28-05-2026 14:46:23","28-05-2026 14:46:23",,,
+"4798","LAPTOP-OBSQ0AE2","System.Byte[]","337937","(13824)","13824","SuccessAudit","A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		LAPTOP-OBSQ0AE2$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3e7
+
+User:
+	Security ID:		S-1-5-21-3180984354-2014446864-1325276698-1001
+	Account Name:		Asus
+	Account Domain:		LAPTOP-OBSQ0AE2
+
+Process Information:
+	Process ID:		0x5b8
+	Process Name:		C:\Windows\System32\svchost.exe","Microsoft-Windows-Security-Auditing","System.String[]","4798","28-05-2026 14:45:50","28-05-2026 14:45:50",,,
+"4798","LAPTOP-OBSQ0AE2","System.Byte[]","337936","(13824)","13824","SuccessAudit","A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		LAPTOP-OBSQ0AE2$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3e7
+
+User:
+	Security ID:		S-1-5-21-3180984354-2014446864-1325276698-500
+	Account Name:		Administrator
+	Account Domain:		LAPTOP-OBSQ0AE2
+
+Process Information:
+	Process ID:		0x5b8
+	Process Name:		C:\Windows\System32\svchost.exe","Microsoft-Windows-Security-Auditing","System.String[]","4798","28-05-2026 14:45:50","28-05-2026 14:45:50",,,
+"4798","LAPTOP-OBSQ0AE2","System.Byte[]","337935","(13824)","13824","SuccessAudit","A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		LAPTOP-OBSQ0AE2$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3e7
+
+User:
+	Security ID:		S-1-5-21-3180984354-2014446864-1325276698-1001
+	Account Name:		Asus
+	Account Domain:		LAPTOP-OBSQ0AE2
+
+Process Information:
+	Process ID:		0x5b8
+	Process Name:		C:\Windows\System32\svchost.exe","Microsoft-Windows-Security-Auditing","System.String[]","4798","28-05-2026 14:45:50","28-05-2026 14:45:50",,,
+"4798","LAPTOP-OBSQ0AE2","System.Byte[]","337934","(13824)","13824","SuccessAudit","A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		LAPTOP-OBSQ0AE2$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3e7
+
+User:
+	Security ID:		S-1-5-21-3180984354-2014446864-1325276698-500
+	Account Name:		Administrator
+	Account Domain:		LAPTOP-OBSQ0AE2
+
+Process Information:
+	Process ID:		0x5b8
+	Process Name:		C:\Windows\System32\svchost.exe","Microsoft-Windows-Security-Auditing","System.String[]","4798","28-05-2026 14:45:50","28-05-2026 14:45:50",,,
+"4798","LAPTOP-OBSQ0AE2","System.Byte[]","337933","(13824)","13824","SuccessAudit","A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		LAPTOP-OBSQ0AE2$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3e7
+
+User:
+	Security ID:		S-1-5-21-3180984354-2014446864-1325276698-1001
+	Account Name:		Asus
+	Account Domain:		LAPTOP-OBSQ0AE2
+
+Process Information:
+	Process ID:		0x5b8
+	Process Name:		C:\Windows\System32\svchost.exe","Microsoft-Windows-Security-Auditing","System.String[]","4798","28-05-2026 14:45:36","28-05-2026 14:45:36",,,
+"4798","LAPTOP-OBSQ0AE2","System.Byte[]","337932","(13824)","13824","SuccessAudit","A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		LAPTOP-OBSQ0AE2$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3e7
+
+User:
+	Security ID:		S-1-5-21-3180984354-2014446864-1325276698-500
+	Account Name:		Administrator
+	Account Domain:		LAPTOP-OBSQ0AE2
+
+Process Information:
+	Process ID:		0x5b8
+	Process Name:		C:\Windows\System32\svchost.exe","Microsoft-Windows-Security-Auditing","System.String[]","4798","28-05-2026 14:45:36","28-05-2026 14:45:36",,,
+"4798","LAPTOP-OBSQ0AE2","System.Byte[]","337931","(13824)","13824","SuccessAudit","A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		LAPTOP-OBSQ0AE2$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3e7
+
+User:
+	Security ID:		S-1-5-21-3180984354-2014446864-1325276698-1001
+	Account Name:		Asus
+	Account Domain:		LAPTOP-OBSQ0AE2
+
+Process Information:
+	Process ID:		0x5b8
+	Process Name:		C:\Windows\System32\svchost.exe","Microsoft-Windows-Security-Auditing","System.String[]","4798","28-05-2026 14:45:36","28-05-2026 14:45:36",,,
+"4798","LAPTOP-OBSQ0AE2","System.Byte[]","337930","(13824)","13824","SuccessAudit","A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		LAPTOP-OBSQ0AE2$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3e7
+
+User:
+	Security ID:		S-1-5-21-3180984354-2014446864-1325276698-500
+	Account Name:		Administrator
+	Account Domain:		LAPTOP-OBSQ0AE2
+
+Process Information:
+	Process ID:		0x5b8
+	Process Name:		C:\Windows\System32\svchost.exe","Microsoft-Windows-Security-Auditing","System.String[]","4798","28-05-2026 14:45:36","28-05-2026 14:45:36",,,
+"4798","LAPTOP-OBSQ0AE2","System.Byte[]","337929","(13824)","13824","SuccessAudit","A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		LAPTOP-OBSQ0AE2$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3e7
+
+User:
+	Security ID:		S-1-5-21-3180984354-2014446864-1325276698-1001
+	Account Name:		Asus
+	Account Domain:		LAPTOP-OBSQ0AE2
+
+Process Information:
+	Process ID:		0x5b8
+	Process Name:		C:\Windows\System32\svchost.exe","Microsoft-Windows-Security-Auditing","System.String[]","4798","28-05-2026 14:45:25","28-05-2026 14:45:25",,,
+"4798","LAPTOP-OBSQ0AE2","System.Byte[]","337928","(13824)","13824","SuccessAudit","A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		LAPTOP-OBSQ0AE2$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3e7
+
+User:
+	Security ID:		S-1-5-21-3180984354-2014446864-1325276698-500
+	Account Name:		Administrator
+	Account Domain:		LAPTOP-OBSQ0AE2
+
+Process Information:
+	Process ID:		0x5b8
+	Process Name:		C:\Windows\System32\svchost.exe","Microsoft-Windows-Security-Auditing","System.String[]","4798","28-05-2026 14:45:25","28-05-2026 14:45:25",,,
+"4798","LAPTOP-OBSQ0AE2","System.Byte[]","337927","(13824)","13824","SuccessAudit","A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		LAPTOP-OBSQ0AE2$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3e7
+
+User:
+	Security ID:		S-1-5-21-3180984354-2014446864-1325276698-1001
+	Account Name:		Asus
+	Account Domain:		LAPTOP-OBSQ0AE2
+
+Process Information:
+	Process ID:		0x5b8
+	Process Name:		C:\Windows\System32\svchost.exe","Microsoft-Windows-Security-Auditing","System.String[]","4798","28-05-2026 14:45:25","28-05-2026 14:45:25",,,
+"4798","LAPTOP-OBSQ0AE2","System.Byte[]","337926","(13824)","13824","SuccessAudit","A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		LAPTOP-OBSQ0AE2$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3e7
+
+User:
+	Security ID:		S-1-5-21-3180984354-2014446864-1325276698-500
+	Account Name:		Administrator
+	Account Domain:		LAPTOP-OBSQ0AE2
+
+Process Information:
+	Process ID:		0x5b8
+	Process Name:		C:\Windows\System32\svchost.exe","Microsoft-Windows-Security-Auditing","System.String[]","4798","28-05-2026 14:45:25","28-05-2026 14:45:25",,,
+"4798","LAPTOP-OBSQ0AE2","System.Byte[]","337925","(13824)","13824","SuccessAudit","A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		LAPTOP-OBSQ0AE2$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3e7
+
+User:
+	Security ID:		S-1-5-21-3180984354-2014446864-1325276698-1001
+	Account Name:		Asus
+	Account Domain:		LAPTOP-OBSQ0AE2
+
+Process Information:
+	Process ID:		0x5b8
+	Process Name:		C:\Windows\System32\svchost.exe","Microsoft-Windows-Security-Auditing","System.String[]","4798","28-05-2026 14:45:23","28-05-2026 14:45:23",,,
+"4798","LAPTOP-OBSQ0AE2","System.Byte[]","337924","(13824)","13824","SuccessAudit","A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		LAPTOP-OBSQ0AE2$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3e7
+
+User:
+	Security ID:		S-1-5-21-3180984354-2014446864-1325276698-500
+	Account Name:		Administrator
+	Account Domain:		LAPTOP-OBSQ0AE2
+
+Process Information:
+	Process ID:		0x5b8
+	Process Name:		C:\Windows\System32\svchost.exe","Microsoft-Windows-Security-Auditing","System.String[]","4798","28-05-2026 14:45:23","28-05-2026 14:45:23",,,
+"4798","LAPTOP-OBSQ0AE2","System.Byte[]","337923","(13824)","13824","SuccessAudit","A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		LAPTOP-OBSQ0AE2$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3e7
+
+User:
+	Security ID:		S-1-5-21-3180984354-2014446864-1325276698-1001
+	Account Name:		Asus
+	Account Domain:		LAPTOP-OBSQ0AE2
+
+Process Information:
+	Process ID:		0x5b8
+	Process Name:		C:\Windows\System32\svchost.exe","Microsoft-Windows-Security-Auditing","System.String[]","4798","28-05-2026 14:45:23","28-05-2026 14:45:23",,,
+"4798","LAPTOP-OBSQ0AE2","System.Byte[]","337922","(13824)","13824","SuccessAudit","A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		LAPTOP-OBSQ0AE2$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3e7
+
+User:
+	Security ID:		S-1-5-21-3180984354-2014446864-1325276698-500
+	Account Name:		Administrator
+	Account Domain:		LAPTOP-OBSQ0AE2
+
+Process Information:
+	Process ID:		0x5b8
+	Process Name:		C:\Windows\System32\svchost.exe","Microsoft-Windows-Security-Auditing","System.String[]","4798","28-05-2026 14:45:23","28-05-2026 14:45:23",,,
+"4798","LAPTOP-OBSQ0AE2","System.Byte[]","337921","(13824)","13824","SuccessAudit","A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		LAPTOP-OBSQ0AE2$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3e7
+
+User:
+	Security ID:		S-1-5-21-3180984354-2014446864-1325276698-1001
+	Account Name:		Asus
+	Account Domain:		LAPTOP-OBSQ0AE2
+
+Process Information:
+	Process ID:		0x5b8
+	Process Name:		C:\Windows\System32\svchost.exe","Microsoft-Windows-Security-Auditing","System.String[]","4798","28-05-2026 14:44:46","28-05-2026 14:44:46",,,
+"4798","LAPTOP-OBSQ0AE2","System.Byte[]","337920","(13824)","13824","SuccessAudit","A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		LAPTOP-OBSQ0AE2$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3e7
+
+User:
+	Security ID:		S-1-5-21-3180984354-2014446864-1325276698-500
+	Account Name:		Administrator
+	Account Domain:		LAPTOP-OBSQ0AE2
+
+Process Information:
+	Process ID:		0x5b8
+	Process Name:		C:\Windows\System32\svchost.exe","Microsoft-Windows-Security-Auditing","System.String[]","4798","28-05-2026 14:44:46","28-05-2026 14:44:46",,,
+"4798","LAPTOP-OBSQ0AE2","System.Byte[]","337919","(13824)","13824","SuccessAudit","A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		LAPTOP-OBSQ0AE2$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3e7
+
+User:
+	Security ID:		S-1-5-21-3180984354-2014446864-1325276698-1001
+	Account Name:		Asus
+	Account Domain:		LAPTOP-OBSQ0AE2
+
+Process Information:
+	Process ID:		0x5b8
+	Process Name:		C:\Windows\System32\svchost.exe","Microsoft-Windows-Security-Auditing","System.String[]","4798","28-05-2026 14:44:46","28-05-2026 14:44:46",,,
+"4798","LAPTOP-OBSQ0AE2","System.Byte[]","337918","(13824)","13824","SuccessAudit","A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		LAPTOP-OBSQ0AE2$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3e7
+
+User:
+	Security ID:		S-1-5-21-3180984354-2014446864-1325276698-500
+	Account Name:		Administrator
+	Account Domain:		LAPTOP-OBSQ0AE2
+
+Process Information:
+	Process ID:		0x5b8
+	Process Name:		C:\Windows\System32\svchost.exe","Microsoft-Windows-Security-Auditing","System.String[]","4798","28-05-2026 14:44:46","28-05-2026 14:44:46",,,
+"4672","LAPTOP-OBSQ0AE2","System.Byte[]","337917","(12548)","12548","SuccessAudit","Special privileges assigned to new logon.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		SYSTEM
+	Account Domain:		NT AUTHORITY
+	Logon ID:		0x3e7
+
+Privileges:		SeAssignPrimaryTokenPrivilege
+			SeTcbPrivilege
+			SeSecurityPrivilege
+			SeTakeOwnershipPrivilege
+			SeLoadDriverPrivilege
+			SeBackupPrivilege
+			SeRestorePrivilege
+			SeDebugPrivilege
+			SeAuditPrivilege
+			SeSystemEnvironmentPrivilege
+			SeImpersonatePrivilege
+			SeDelegateSessionUserImpersonatePrivilege","Microsoft-Windows-Security-Auditing","System.String[]","4672","28-05-2026 14:44:29","28-05-2026 14:44:29",,,
+"4624","LAPTOP-OBSQ0AE2","System.Byte[]","337916","(12544)","12544","SuccessAudit","An account was successfully logged on.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		LAPTOP-OBSQ0AE2$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3e7
+
+Logon Information:
+	Logon Type:		5
+	Restricted Admin Mode:	-
+	Remote Credential Guard:	-
+	Virtual Account:		%%1843
+	Elevated Token:		%%1842
+
+Impersonation Level:		%%1833
+
+New Logon:
+	Security ID:		S-1-5-18
+	Account Name:		SYSTEM
+	Account Domain:		NT AUTHORITY
+	Logon ID:		0x3e7
+	Linked Logon ID:		0x0
+	Network Account Name:	-
+	Network Account Domain:	-
+	Logon GUID:		{00000000-0000-0000-0000-000000000000}
+
+Process Information:
+	Process ID:		0x4c8
+	Process Name:		C:\Windows\System32\services.exe
+
+Network Information:
+	Workstation Name:	-
+	Source Network Address:	-
+	Source Port:		-
+
+Detailed Authentication Information:
+	Logon Process:		Advapi  
+	Authentication Package:	Negotiate
+	Transited Services:	-
+	Package Name (NTLM only):	-
+	Key Length:		0
+
+This event is generated when a logon session is created. It is generated on the computer that was accessed.
+
+The subject fields indicate the account on the local system which requested the logon. This is most commonly a service such as the Server service, or a local process such as Winlogon.exe or Services.exe.
+
+The logon type field indicates the kind of logon that occurred. The most common types are 2 (interactive) and 3 (network).
+
+The New Logon fields indicate the account for whom the new logon was created, i.e. the account that was logged on.
+
+The network fields indicate where a remote logon request originated. Workstation name is not always available and may be left blank in some cases.
+
+The impersonation level field indicates the extent to which a process in the logon session can impersonate.
+
+The authentication information fields provide detailed information about this specific logon request.
+	- Logon GUID is a unique identifier that can be used to correlate this event with a KDC event.
+	- Transited services indicate which intermediate services have participated in this logon request.
+	- Package name indicates which sub-protocol was used among the NTLM protocols.
+	- Key length indicates the length of the generated session key. This will be 0 if no session key was requested.","Microsoft-Windows-Security-Auditing","System.String[]","4624","28-05-2026 14:44:29","28-05-2026 14:44:29",,,
